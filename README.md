@@ -16,12 +16,13 @@
   * The cited R<sub>0</sub> value represents a worst-case scenario with no isolation...  
   I assume you can scale this transmission factor by the amount of time prior to isolation  
   
-* Figures show 
+* Figures show
   * The R<sub>0</sub> distribution I'm using for individual cases & the symptom onset distribution I obtained from the literature 
   * Simulations starting with 1k active cases, and simulations starting with 10k cases 
 
 
-Perhaps getting the number of active cases down to 1k and isolating people quickly (< 24 hrs) after showing symtoms can keep the total case-count low for a year...  
+Perhaps getting the number of active cases down to 1k and isolating people quickly (< 24 hrs) after showing symtoms can keep the total case-count low for a year... 
+ 
 Again I am **NOT** an expert on this topic!  
 
 
